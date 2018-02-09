@@ -6,18 +6,18 @@ title: Publications
 ## Peer Reviewed Journal Papers
 
 * Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “State-of- the-Art Review of Water Distribution Systems Performance and Asset Management,” ASCE Journal of Infrastructure Systems (In Press).
+* Salman, A.M. & Li, Y. (2018). A Probabilistic Framework for Multi-Hazard Risk Mitigation for Electric Power Systems Subjected to Seismic and Hurricane Hazards. Structure & Infrastructure Engineering. (In press).
+* Salman, A.M. & Li, Y. (2018). Flood Risk: Assessment, Future Trend Modeling, and Risk Communication – A Review of Ongoing Research. Natural Hazards Review, ASCE. (In press).
+* Salman, A. M., Li, Y., & Bastidas-Arteaga, E. (2017). Maintenance Optimization for Power Distribution Systems Subjected to Hurricane Hazard, Timber Decay and Climate Change. Reliability Engineering & System Safety. DOI: http://doi.org/10.1016/j.ress.2017.03.002
+* Salman, A. M. & Li, Y. (2017). A Framework to Investigate the Effectiveness of Interconnection of Power Distribution Systems Subjected to Hurricanes. Structure & Infrastructure Engineering. DOI: http://dx.doi.org/10.1080/15732479.2017.1345954
+* Salman, A.M. & Li, Y (2017). Multihazard Risk Assessment of Electric Power Systems. ASCE Journal of Structural Engineering, 143(3), 04016198. DOI: http://dx.doi.org/10.1061/(ASCE)ST.1943-541X.0001688
+* Salman, A. M. & Li, Y. (2017). Assessing Climate Change Impact on System Reliability of Power Distribution Systems Subjected to Hurricanes. ASCE Journal of Infrastructure Systems, 23(1), 04016024. DOI: http://dx.doi.org/10.1061/(ASCE)IS.1943-555X.0000316. 
+* Salman, A. M. & Li, Y. (2016). Age-dependent Fragility and Life-cycle Cost Analysis of Wood and Steel Power Distribution Poles Subjected to Hurricanes. Structure & Infrastructure Engineering, 12(8), 890-903. DOI: 10.1080/15732479.2015.1053949. 
+* Salman, A. M., Li, Y., & Stewart, M. G. (2015). Evaluating System Reliability and Targeted Hardening Strategies of Power Distribution Systems Subjected to Hurricanes. Reliability Engineering & System Safety, 144, 319-333. DOI: https://doi.org/10.1016/j.ress.2015.07.028
+* Jayakumar, M. & Salman, A. M. (2011). Experimental Study on Sustainable Concrete with the Mixture of Low Calcium Fly Ash and Lime as a Partial Replacement of Cement. Advanced Materials Research, (250-253): 307-312.
 
-* Mazumder, R. K., Utsob, M. T. U., and Bhuiyan, A. R. (2018), Seismic Vulnerability Assessment of Medical Facilities: A GIS Based Application for Chittagong, Bangladesh, Malaysian Journal of Civil Engineering (Accepted)
 
-* Mazumder, R. K., Uddin, S., Dey, R. and Ansary, M. A. (2016), Analytical Fragility Curves for Reinforced Concrete Building Using Single Point Scaled Spectrum Matched Ground Motion Analyses, Malaysian Journal of Civil Engineering 28(3):394-406
 
-* Mazumder, R. K. and Ansary, M. A. (2014), Application of Capacity Spectrum Method based on ATC 40 and BNBC 1993, International Journal of Advanced Structures and Geotechnical Engineering, Vol. 03, No. 04.
-
-* Mazumder, R. K., Khair, A.,Sakib, N., Bhuiyan, A. R. and Alam, J. (2014) Rapid Assessment Procedure for Seismic Evaluation of Existing Buildings: A Case Study for CUET Campus, Journal of South Asian Disaster Studies, Vol. 06, 2012.
-
-* Chowdhury, M. A. I., Mazumder, R. K., Islam, M. O. and Paul, S. (2011), Optimization of Pure Water by Reusing Domestic Water for Urban Multi-Storied Buildings, Journal of Environmental Research and Development, Vol. 6 No. 2, 295-302.
-
-* Mazumder, R. K and Ahmed, M (2010), Vulnerability Assessment of Reinforced Concrete Frame Buildings due to Earthquake in Sylhet City, Journal of Environmental Science and Natural Resources, Vol. 3, No. 2, 81-84.
 
 ## International Conference Papers
 * Mazumder, R. K., Biswas, B.S.P., Helali, A. L. and Ansary, M. A. (2017), Ambient Vibration Analysis of Heritage Unreinforced Masonry Buildings in Bangladesh, 16th World Conference on Earthquake Engineering (16WCEE), Santiago Chile, January 9-13, Paper N° 4176
