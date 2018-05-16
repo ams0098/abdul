@@ -1,22 +1,13 @@
 ---
 layout: page
 title: Ram K Mazumder
-subtitle: PhD Candidate, Case Western Reserve University
-meta-title: "Hi, I'm RK"
+subtitle: Assistant Professor, Dept of Civil Engineering, Univ Alabama Huntsville
+meta-title: "Hi, I'm AMS"
 use-site-title: true
 bigimg:
   - /img/rkk1.jpg: Case Western Reserve Uni Campus
   - /img/hnw.jpg: Happy New Year 2018
 ---
-
-## Other Affiliation
-Assistant Professor (on leave),
-Institute of Earthquake Engineering Research,
-Chittagong University of Engineering and Technology,
-Chittagong 4349, Bangladesh
-
-President, South Asian Chapter, Erasmus Mundus Students and Alumni Association
-
 
 ## Tweets
 <p>
